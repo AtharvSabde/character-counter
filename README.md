@@ -1,2 +1,2 @@
-# character-counter
-character counter. used HTML CSS and JavaScript
+# Hover-Follower
+the hover follower
